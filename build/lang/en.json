@@ -263,7 +263,7 @@
     "mm.login.credentialsdescription": "Please provide your username and password to log in.",
     "mm.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "mm.login.connect": "Connect!",
-    "mm.login.connecttomoodle": "Connect to Moodle",
+    "mm.login.connecttomoodle": "Connect to MobiSkool",
     "mm.login.contactyouradministrator": "Contact your site administrator for further help.",
     "mm.login.contactyouradministratorissue": "Please, ask the administrator to check the following issue: {{$a}}",
     "mm.login.emailconfirmsent": "<p>An email should have been sent to your address at <b>{{$a}}</b></p><p>It contains easy instructions to complete your registration.</p><p>If you continue to have difficulty, contact the site administrator.</p>",
