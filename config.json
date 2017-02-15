@@ -1,6 +1,6 @@
 {
-    "app_id" : "com.mobiskool",
-    "appname": "MobiSkool",
+    "app_id" : "in.ac.rimt",
+    "appname": "Rimt University",
     "versioncode" : "2016",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
@@ -10,7 +10,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "siteurl": "http://mobiskool.com/",
+    "siteurl": "",
     "notifications_enabled": true,
     
 }
