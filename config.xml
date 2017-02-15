@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.mobiskool"
+        id        = "in.ac.rimt"
         versionCode = "20160"
         version   = "1.0">
-    <name>MobiSkool</name>
+    <name>RIMT University</name>
 
     <description>
-        MobiSkool app
+        RIMT University
     </description>
 
-    <author href="http://www.mobiskool.com" email="info@mobiskool.com">
-        MobiSkool
+    <author href="http://www.rimt.ac.in" email="info@rimt.ac.in">
+        RIMT University
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
